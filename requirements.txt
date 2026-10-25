@@ -1,0 +1,5 @@
+numpy>=1.24
+opencv-python-headless>=4.8   # use opencv-python instead to run original/sorter.py with a webcam window
+torch>=2.0
+matplotlib>=3.7
+pyserial>=3.5                 # only for original/sorter.py on hardware
